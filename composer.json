@@ -1,0 +1,24 @@
+{
+	"name": "nickberens360/atomic-docs",
+    "type": "library",
+    "version": "1.0.0",
+    "description": "Atomic Docs is a front end style guide generator and component manager. Atomic Docs is built in PHP and Sass. Inspired by Brad Frost's Atomic Design principles.",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Nick Berens",
+            "homepage": "http://nickberens.me/"
+        }
+    ],
+    "homepage": "http://atomicdocs.io/",
+	"repositories": [
+		{
+		  "type": "composer",
+		  "url": "https://wpackagist.org"
+		}
+	],
+    "require": {
+        "php": ">=5.3.3",
+        "cmskit/ace-editor": "dev-master"
+    }   
+}

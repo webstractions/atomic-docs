@@ -1,0 +1,54 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "7aeae23c41e873c4fc2b24c9f1533856",
+    "content-hash": "04b79ca3279c2ff28fc9f5899a8a3e24",
+    "packages": [
+        {
+            "name": "cmskit/ace-editor",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/cmskit/lib-ace-editor.git",
+                "reference": "31d5e3e61caf33d544ea214551b7179b5e33c0a9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/cmskit/lib-ace-editor/zipball/31d5e3e61caf33d544ea214551b7179b5e33c0a9",
+                "reference": "31d5e3e61caf33d544ea214551b7179b5e33c0a9",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.3"
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD"
+            ],
+            "authors": [
+                {
+                    "name": "Christoph Taubmann",
+                    "email": "info@cms-kit.com"
+                }
+            ],
+            "homepage": "http://ace.c9.io",
+            "time": "2014-08-22 11:34:16"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "cmskit/ace-editor": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=5.3.3"
+    },
+    "platform-dev": []
+}
